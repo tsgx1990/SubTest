@@ -1,3 +1,1 @@
-echo aaa
-echo `ls`
-echo bbb
+echo "aappppllee" >> Classes/STTools.h
