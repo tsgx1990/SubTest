@@ -1,2 +1,2 @@
 echo "abcdbannnnnadfadsoug"
-echo "aappppllee" >> Classes/STTools.h
+echo "aappppllee" >> ./Classes/STTools.h
